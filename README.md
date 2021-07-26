@@ -4,4 +4,4 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Uthra for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Uthra](https://github.com/Uthra1990) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
